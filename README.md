@@ -1,6 +1,8 @@
 # NexPlaybook
 
-A Chrome extension that detects sports searches or live tabs, surfaces relevant Polymarket markets, and shows matchup context from ESPN. It can also capture live tab audio and transcribe it via ElevenLabs (optional).
+[https://www.youtube.com/watch?v=qhcVaq68sw4](url)
+
+A Polymarket browser extension that watches live games you’re already consuming and, using LiveKit’s real-time audio/video understanding, surfaces relevant prediction markets you can act on instantly.
 
 ## What it does
 
