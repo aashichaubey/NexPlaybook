@@ -1,6 +1,6 @@
 # NexPlaybook
 
-[https://www.youtube.com/watch?v=qhcVaq68sw4](url)
+[![NexPlaybook demo](https://img.youtube.com/vi/qhcVaq68sw4/maxresdefault.jpg)](https://www.youtube.com/watch?v=qhcVaq68sw4)
 
 A Polymarket browser extension that watches live games you’re already consuming and, using LiveKit’s real-time audio/video understanding, surfaces relevant prediction markets you can act on instantly.
 
